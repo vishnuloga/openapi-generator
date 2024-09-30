@@ -15,13 +15,13 @@
     <packaging>pom</packaging>
     <name>openapi-generator-project</name>
     <!-- RELEASE_VERSION -->
-    <version>7.9.0-SNAPSHOT</version>
+    <version>7.8.0.1</version>
     <!-- /RELEASE_VERSION -->
-    <url>https://github.com/openapitools/openapi-generator</url>
+    <url>https://github.com/vishnuloga/openapi-generator</url>
     <scm>
-        <connection>scm:git:git@github.com:openapitools/openapi-generator.git</connection>
-        <developerConnection>scm:git:git@github.com:openapitools/openapi-generator.git</developerConnection>
-        <url>https://github.com/openapitools/openapi-generator</url>
+        <connection>scm:git:git@github.com:vishnuloga/openapi-generator.git</connection>
+        <developerConnection>scm:git:git@github.com:vishnuloga/openapi-generator.git</developerConnection>
+        <url>https://github.com/vishnuloga/openapi-generator</url>
     </scm>
     <developers>
         <!-- original author of the project -->
